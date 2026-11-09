@@ -12,11 +12,6 @@ Originally a terminal-based Python project, now rebuilt with a **Streamlit** int
 - **Input validation**: required fields, email check, minimum copies
 - **Persistent storage**: all data is saved to a local `library.json` file
 
-## Screenshots
-
-| Dashboard | Borrow Book |
-|-----------|-------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Borrow](screenshots/borrow.png) |
 
 ## Tech Stack
 
