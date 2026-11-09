@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+# Local data created by the app at runtime
+library.json
